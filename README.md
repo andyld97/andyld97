@@ -13,10 +13,10 @@ take notes using `Touch`, `Pen` or `Mouse`.
 
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=andyld97&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord">
+      <img height="150px" src="https://github-readme-stats-ruby-one.vercel.app/api?username=andyld97&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord">
     </a>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyld97&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord">
+      <img height="150px" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=andyld97&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord">
     </a>
   </div>
 </details>
