@@ -1,10 +1,8 @@
-### Hi! 👋
+### Hello!
 
 My name is Andy and I am a passionate <b>.NET</b> programmer. I started programming with `Visual Basic` when I was a child, but nowadays
-I am using `C#`. So, basically I was grown up with <b>.NET</b> and it's stil my favourite framework/environment.
-
-- 🔭 My main project I’m currently working is [SimpleJournal](https://github.com/andyld97/SimpleJournal). It’s a <b>.NET</b> based `WPF`-App where you can
-take notes using `Touch`, `Pen` or `Mouse`.
+I am only using `C#`. So, basically I was grown up with <b>.NET</b> and it's stil my favourite framework/environment.
+Exploring new things related to different technologies is something I really enjoy! Currently learning Blazor/Unity Game Development!
 
 ---
 
